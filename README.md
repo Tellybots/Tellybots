@@ -23,9 +23,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
-</p>
+
 
 <!---
 Tellybots/Tellybots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
