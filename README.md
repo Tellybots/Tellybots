@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tellybots
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to make Bot More Intersting
 - 📫 Channel Link [@Tellybots](https://t.me//Tellybots)
 
 <!---
