@@ -9,7 +9,7 @@ Tellybots/Tellybots is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NaysaBots}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tellybots}/count.svg" /></p> 
 
 <div align="center">
 
