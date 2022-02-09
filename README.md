@@ -8,12 +8,6 @@
 Tellybots/Tellybots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tellybots}/count.svg" /></p> 
-
-<div align="center">
-
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Tellybots&theme=github_dark&layout=compact&hide_border=true)  
 
 </div>
 
