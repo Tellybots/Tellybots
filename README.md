@@ -1,5 +1,6 @@
 
-## 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 👲
+
+<p align="center">   𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 👲  </p>
 
 - 👋 Hi, I’m @Tellybots
 - 👀 I’m interested in Python
