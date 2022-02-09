@@ -7,7 +7,7 @@
 
 
 
-## Languages and Tools I Love 😘
+## 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 𝚆𝙷𝙸𝙲𝙷 𝙸 𝙻𝙾𝚅𝙴 💕
 
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
