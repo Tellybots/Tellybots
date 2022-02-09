@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 Channel Link (@Tellybots)(t.me/Tellybots)
+- 📫 Channel Link [@Tellybots](t.me/Tellybots)
 
 <!---
 Tellybots/Tellybots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
