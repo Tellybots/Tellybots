@@ -23,11 +23,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://telegram.dog/Tellybots"><img src="https://img.shields.io/badge/Tellybots-30302f?style=flat&logo=telegram" alt="telegram badge"/>
 </p>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tellybots&show=prs&count_private=true&custom_title=GitHub+Stats&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)  
- 
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=starkbotsindustries&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <p align="center">
   <a href="https://github.com/Tellybots">
