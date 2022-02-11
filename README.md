@@ -12,7 +12,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tellybots&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tellybots&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=Tellybots+Graph" alt="https://github.com/Tellybots" width="400"/></p>
+
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tellybots&theme=react-dark&custom_title=Tellybots Contribution+Graph" alt="https://github.com/Tellybots" width="400"/></p>
+
 
 
 
