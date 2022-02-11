@@ -9,6 +9,11 @@
 - 📫 Channel Link [@Tellybots](https://t.me//Tellybots)
 
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tellybots&theme=dracula" alt="Tellybots" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tellybots&show_icons=true&theme=midnight-purple&locale=en" alt="Tellybots" /></p>
+
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tellybots&theme=react-dark&custom_title=Telkybots+Graph" alt="https://github.com/Tellybots" width="400"/></p>
 
 
 <p align="center"> 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 𝚆𝙷𝙸𝙲𝙷 𝙸 𝙻𝙾𝚅𝙴 💕 </p>
