@@ -1,4 +1,4 @@
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tellybots}/count.svg"/></p> 
 
 <div align="center">
