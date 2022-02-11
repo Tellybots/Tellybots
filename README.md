@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<div align="center">
-
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Tellybots&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
