@@ -8,7 +8,7 @@
 
 </div>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tellybots&theme=gold" alt="Tellybots" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tellybots&theme=dracula" alt="Tellybots" /></p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tellybots&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
