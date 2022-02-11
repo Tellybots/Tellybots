@@ -1,13 +1,5 @@
 
 
-<p align="center">   𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 👲  </p>
-
-- 👋 Hi, I’m @Tellybots
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to make Bot More Intersting
-- 📫 Channel Link [@Tellybots](https://t.me//Tellybots)
-
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tellybots&theme=dracula" alt="Tellybots" /></p>
 
