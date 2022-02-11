@@ -6,7 +6,7 @@
 
 </div>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tellybots&theme=dracula" alt="Tellybots" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tellybots&theme=violet" alt="Tellybots" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tellybots&show_icons=true&theme=midnight-purple&locale=en" alt="Tellybots" /></p>
 
