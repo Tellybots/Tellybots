@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Tellybots&theme=github_drakula&layout=compact&hide_border=false)  
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=Tellybots  
 
 </div>
 
